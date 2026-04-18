@@ -8,3 +8,18 @@ public class Solution {
         return j;
     }
 }
+
+// HashSet<int> set = new HashSet<int>();
+
+//         foreach (int num in nums) {
+//             if (set.Contains(num)) {
+//                 set.Remove(num);
+//             } else {
+//                 set.Add(num);
+//             }
+//         }
+
+//         // Only one element will remain
+//         foreach (int num in set) {
+//             return num;
+//         }
